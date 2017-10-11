@@ -1,43 +1,83 @@
-html {
+html 
+{
 	position:relative;
+	height:-100px;
 }
-body {
-	margin-bottom:100px;
-}
-
-
-
-.jumbotron img {
-	width: 200px;
-	border: 5px solid #333;
+body 
+    {
+     margin-top: 30px;	
+	 margin-bottom: 1000px;
 	
-  
-  }
-hr {
-	width:250px;
-	border-top:4px solid #666;
+
+    }
+	
+h1 
+{
+	margin-top: 30px;
 }
 
-.portfolio {
-	background-color: #eee;
+
+
+.container img {
+	 width: 200px;
+	 height: 200px;
+	 margin-right: 10px;
+	 border: 5px;
+}
+
+ .jumbotron  {
+    position: relative;
+    background-image: #eee url(img/bg0.jpg) center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+	opacity: .8;
+	
+}
+.navbar-inverse {
+    background-color: #377ab7;
+    font-size:18px;
+    }
+ .active {
+	 color:#eee;
+ }
+ 
+ .navbar-inverse .navbar-nav > li > a{
+ color: white;
+}
+
+.navbar-inverse .navbar-brand {
+ color: white;
+}
+
+.navbar-inverse .navbar-brand img {
+	
+}
+
+.jumbotron .container img {
+	margin-right: 30px;
 }
 
 footer {
 	position:absolute;
 	bottom: 0;
 	width:100%;
-	height:100px;
-	background-color: #333;
+	height:35px;
+	background-color: #337ab7;
+	margin-top: 100px;
+	
 	
 	
 }
 
 footer p {
-	color: #aaa;
+	color: white;
 	font-size: 1em;
-	padding-top:30px;
+	margin-top: 5px;
 }
 
 footer p i {
 	color: salmon;
 }
+

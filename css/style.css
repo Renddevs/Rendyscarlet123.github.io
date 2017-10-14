@@ -9,6 +9,11 @@ body
      margin-top: 30px;	
      margin-bottom: 1000px;
     }
+ a:hover 
+    {
+        color: purple;
+
+    } 
 	
 h1 
     {

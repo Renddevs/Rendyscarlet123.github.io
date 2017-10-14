@@ -9,9 +9,10 @@ body
      margin-top: 30px;	
      margin-bottom: 1000px;
     }
- a:hover 
+ btn:hover 
     {
         color: purple;
+        transition: .3;
 
     } 
 	

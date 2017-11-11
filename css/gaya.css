@@ -260,6 +260,7 @@ body
 .navbar {   font-size:20px;
 			position:relative;
 			width: 100%;
+			background-color:white;
 		}
 
 		.navbar .navbar-brand {

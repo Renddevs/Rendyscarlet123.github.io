@@ -1,0 +1,107 @@
+html
+{
+	position:relative;
+    height: 100%;
+}
+body
+{
+	margin-bottom:100px;
+    height: 100%;
+    
+}
+
+.kepala h1
+{
+  color:#ffffff;
+  text-shadow: 5px 5px 8px rgba(0,0,0,0.5);
+}
+.kepala p
+{
+  color:#ffffff;
+  text-shadow: 5px 5px 8px rgba(0,0,0,0.5);
+}
+.jumbotron
+{
+  background-image: url('../img/bg.png');
+  background-size:cover;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-position:0 100%;
+ 
+}
+.jumbotron img 
+{
+	width:200px;
+	height:200px;
+	border:4px solid #ffffff;
+	margin-top:100px;
+	text-shadow: 5px 5px 8px rgba(0,0,0,0.5);
+}
+
+.intro p
+{
+    
+}
+hr
+{
+	border:1px solid #888;
+	width:250px;
+}
+
+.contact
+{
+	min-height:500px;
+    margin-bottom: 100px;
+}
+
+<!--footer-->
+* {
+  box-sizing: border-box;
+}
+
+strong {
+  font-weight: 700;
+}
+
+/* ==== SIMPLE FOOTER ==== */
+
+footer {
+  background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
+  display: table;
+  width: 100vw;
+  height: 50px;
+  text-align: center;
+  padding: 1rem;
+  font-family: 'Arial', sans-serif;
+  font-size: .875rem;
+  margin-bottom:0px;
+}
+
+.wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+footer small {
+  color: #ccc;
+  letter-spacing: .025rem;
+  margin-bottom: 2.5rem;
+  display: block;
+    font-size: 20px;
+}
+
+.footer-nav a {
+  color: #c74f78;
+  text-decoration: none;
+  margin: 2.5rem;
+  display: inline-block;
+    font-size:15px;
+}
+
+.footer-nav a:hover {
+  color: #f26896;
+  transition: color .15s ease-in-out;
+    font-size:18px;
+}
+
+<!--footer-->

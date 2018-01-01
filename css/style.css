@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
 html
 {
 	position:relative;
@@ -65,6 +67,10 @@ hr
 {
 	color:white;
 }
+a
+{
+	text-decoration:none;
+}
 .cv img
 {
   display:block;
@@ -76,6 +82,20 @@ hr
   padding-top:50px;
 }
 
+.develop
+{
+	margin-top:150px;
+}
+.develop .thumbnail img
+{
+	width:200px;
+	height:200px;
+}
+.portfolio img
+{
+	width:400px;
+	height:250px;
+}
 .portfolio
 {
 	margin-top:100px;

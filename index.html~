@@ -39,7 +39,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li class="active"><a href="#intro" class="page-scroll">Hallo !<span class="sr-only">(current)</span></a></li>
-        <li><a href="#activiti" class="page-scroll">My activity</a></li>
+        <li><a href="#activiti" class="page-scroll">Tool & Support</a></li>
         <li><a href="#">PHP</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
@@ -59,7 +59,7 @@
 	<div class="jumbotron text-center">
 	<img src ="img/profil.png" class="img-circle">
 	<h1 class="animated bounce">Rendy Praseptya Nugraha</h1>
-	<p>Army | Web Development </p>
+	<p>Student | Web Development </p>
 	</div>
 	</div>
 	<!--About-->
@@ -74,16 +74,16 @@
 	</div>
 	<div class="row">
 	<div class="col-sm-5 col-sm-offset-1">
-	<p class="animated fadeInLeft">Perkenalkan nama saya Rendy Praseptya Nugraha, biasa dipanggil Rendy oleh teman-teman saya
+	<p class="animated fadeInLeft">Perkenalkan nama saya Rendy Praseptya Nugraha, biasa dipanggil Rendy
     saya lahir di Bandung tanggal 30 Mei 2001. sekarang umur saya masih 16 tahun dan duduk di Kelas
     11 smk / Kelas 2 Smk Igasar Pindad Bandung di Jurusan <abbr title="Rekayasa Perangkat Lunak">RPL</abbr>. 
     Kenapa saya memilih jurusan <abbr title="Rekayasa Perangkat Lunak">RPL</abbr>? karena saya suka berada 
     di depan komputer dan tidak tahu harus apa , sebab dulu  saya hanya tau bermain game digital saja.</p>
 	</div>
 	<div class="col-sm-5">
-	<p>Akan tetapi ketika saya sudah masuk smk dengang jurusan Rekayasa perangkat lunak saya sadar akan 
-    potensi yang ada pada dunia Komputer, entah itu perkembangan teknologi maupun pesat penyebaran informasi
-    yang saat ini. Oleh karena itu saya menjadi tertarik dan semakin mendalami dunia komputer khususnya Programing.
+	<p>Akan tetapi ketika saya sudah masuk smk dengan jurusan Rekayasa perangkat lunak saya sadar akan 
+    potensi yang ada pada dunia Komputer, entah itu perkembangan teknologi yang pesat maupun penyebaran informasi
+    yang ada saat ini. Oleh karena itu saya menjadi tertarik dan semakin mendalami dunia komputer khususnya Programing.
     </p>
 	</div>
 	</div>
@@ -113,6 +113,8 @@
 	<div class="container">
 	<div class="row">
 	<div class="col-sm-12">
+        <h1 align="center">Skills</h1>
+        <hr>
 	</div>
 	<div class="row">
     <div class="col-sm-4">
@@ -122,7 +124,7 @@
         <h3>HTML & CSS</h3>
         <p>Hyper Text Markup Language (HTML) merupakan bahasa yang digunakan untuk membentuk tampilan sebuah web. Dan dengan menggunakan Cascading Style Sheet (CSS), 
 		kita dapat memformat tampilan tersebut dengan lebih mudah dan tentu saja menjadi lebih bagus. Selain itu HTML  dan CSS juga mudah dipelajari dan dikembangan</p>
-        <p><a href="#" class="btn btn-primary" role="button">Pelajari</a></p>
+        <!--<p><a href="#" class="btn btn-primary" role="button">Pelajari</a></p>-->
       </div>
     </div>
   </div>
@@ -134,7 +136,7 @@
         <p>Jika pada Web Html adalah kerangka dan Css adalah atau bagian kulit , maka pada javascript adalah fungsi yang terdapat pada Web. Dengan menggunakan Javascript, 
 		web yang kita buat bisa menjadi lebih interaktif. Kita bisa membuat popup window, autocomplete,
 		datepicker, dan banyak hal lainnya dengan menggunakan Javascript.</p>
-        <p><a href="#" class="btn btn-primary" role="button">Pelajari</a></p>
+        <!--<p><a href="#" class="btn btn-primary" role="button">Pelajari</a></p>-->
       </div>
     </div>
   </div>
@@ -146,7 +148,7 @@
         <p>Pemrograman Server Side merupakan bagian terpenting pada programan web dinamis. Pada bagian ini pilihan bahasa pemrograman yang bisa Anda pelajari sangat banyak.
 		Mulai dari bahasa yang sudah lama beredar seperti Perl, Ruby, PHP, JSP, 
 		dan Python hingga bahasa seperti NodeJS, Haskell, Scala, dan Go.</p>
-        <p><a href="#" class="btn btn-primary" role="button">Pelajari</a></p>
+        <!--<p><a href="#" class="btn btn-primary" role="button">Pelajari</a></p>-->
       </div>
     </div>
   </div>
@@ -163,39 +165,39 @@
 	<div class="container">
 	<div class="row">
 	<div class="col-sm-12">
-	<h2 class="text-center">My activity</h2>
+	<h2 class="text-center">Tool & Support</h2>
 	<hr>
 	</div>
 	</div>
 	<div class="row">
 	<div class="col-sm-4">
 	<a href="" class="thumbnail">
-	<img src="img/f1.jpg">
+	<img src="img/github.png">
 	</a>
 	</div>
 	<div class="col-sm-4">
 	<a href="" class="thumbnail">
-	<img src="img/php-pro.png">
+	<img src="img/gedit.jpg">
 	</a>
 	</div>
 	<div class="col-sm-4">
 	<a href="" class="thumbnail">
-	<img src="img/php.png">
+	<img src="img/ubuntulogo.png">
 	</a>
 	</div>
 	<div class="col-sm-4">
 	<a href="" class="thumbnail">
-	<img src="img/avatar.gif">
+	<img src="img/fire.gif">
 	</a>
 	</div>
 	<div class="col-sm-4">
 	<a href="" class="thumbnail">
-	<img src="img/port.jpg">
+	<img src="img/brackets.jpg">
 	</a>
 	</div>
 	<div class="col-sm-4">
 	<a href="" class="thumbnail">
-	<img src="img/Octocat.png">
+	<img src="img/berners_lee.jpg">
 	</a>
 	</div>
 	</div>
@@ -241,9 +243,9 @@
 	<!--footer-->
     <footer>
     <div class="wrapper">
-      <small>&copy;2017 <strong>Awesome Company</strong>, All Rights Reserved</small>
+      <small>&copy;2018 <strong>Awesome Company</strong>, All Rights Reserved</small>
       <nav class="footer-nav">
-        <a href="#">Back to Top</a>
+        <a href="#kepala">Back to Top</a>
         <a href="#">Terms of Use</a>
         <a href="#">Privacy</a>
       </nav>

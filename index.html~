@@ -38,7 +38,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#">Project<span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="#intro" class="page-scroll">Hallo !<span class="sr-only">(current)</span></a></li>
         <li><a href="#activiti" class="page-scroll">My activity</a></li>
         <li><a href="#">PHP</a></li>
         <li class="dropdown">
@@ -59,7 +59,7 @@
 	<div class="jumbotron text-center">
 	<img src ="img/profil.png" class="img-circle">
 	<h1 class="animated bounce">Rendy Praseptya Nugraha</h1>
-	<p>Student | Web Development </p>
+	<p>Army | Web Development </p>
 	</div>
 	</div>
 	<!--About-->
